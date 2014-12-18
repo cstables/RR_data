@@ -1,0 +1,2 @@
+Timepoint	Filename	SumRR	MeanRR	sdRR	Upper	Lower	RR_Length	new_RR_length	Percent_deleted
+0	Filename	0	0	0	0	0	0	0	0
